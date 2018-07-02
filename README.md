@@ -61,7 +61,7 @@ class demo {
         ];
 
     }
-    public function delete() {
+    public function AnyHTTPMethodName() {
         return [
             'status' => true,
             'message' => 'HTTP DELETE Method!',
