@@ -1,4 +1,4 @@
-# About Triangle
+# Triangle
 Triangle is a web application for your rest api solution, we make the code and the system as beautiful as posible, its provide much feature, such as:
 1. Auto format your respond or response, like XML and JSON.
 2. Simple, and fast route for every api.
